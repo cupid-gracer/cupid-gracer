@@ -52,7 +52,7 @@
 
 ## 📫 How to reach me
 
-- **[Skype]** @live:.cupidgracer
-- **[Googlechat]** @cupidgracer@gmail.com
+- **[Skype]** live:.cupidhenry
+- **[Mail]** cupidgracer@gmail.com
 
 <br />
