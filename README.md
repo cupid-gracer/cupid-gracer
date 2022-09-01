@@ -28,6 +28,7 @@
     <code><img alt="Rust" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
     <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
     <code><img alt="windows8" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code>
+    <code><img alt="ruby" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg"></code>
     <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
      <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
     <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
